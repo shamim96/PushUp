@@ -14,8 +14,7 @@ public class MainActivity extends Activity {
     private void testUpload(){
         int i = 2+1;
         int ii = 5+5;
-        int i3;
-        int i4;
+        int i3=i+ii;
         int iii = i+ii;
     }
 
